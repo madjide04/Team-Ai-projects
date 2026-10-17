@@ -26,6 +26,7 @@ This showcase highlights the standout artificial intelligence, machine learning,
 | **FridgeChef**<br>_Trouve des recettes selon tes ingrédients, tes envies et ton temps disponible._ | `` | [![Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat)](http://fridgechef-1tcq.vercel.app) | Sarah Tliouant |
 | **Informations Bot**<br>__ | `` | [![GitHub](https://img.shields.io/badge/Repo-121011?style=flat&logo=github)](https://github.com/cmidegue-lab/Informations-Bot) | Chaima Midegue |
 | **restaurant suggester 2**<br>__ | `` | [![GitHub](https://img.shields.io/badge/Repo-121011?style=flat&logo=github)](https://restaurante-bot.streamlit.app/) [![Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat)](https://restaurante-bot.streamlit.app/) | Imen Yousri |
+| **mbti detective**<br>__ | `` | [![Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat)](https://sisiadour.github.io/mbti-detective/) | Serine Adour |
 
 
 ---
