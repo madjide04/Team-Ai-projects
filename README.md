@@ -15,7 +15,7 @@ This showcase highlights the standout artificial intelligence, machine learning,
 | **hand-voxel-editor**<br>_Draw 3D voxel art in the air with your hands. Real-time hand tracking in the browser (MediaPipe + Three.js), exhibition mode, Arabic/French/English_ | `` | [![Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat)](https://127-yk-nour.github.io/hand-voxel-editor/) | 7y_nour  |
 | **Restaurant Suggester Chatbot**<br>__ | `` | [![GitHub](https://img.shields.io/badge/Repo-121011?style=flat&logo=github)](https://github.com/adamstimt/Restaurant_Suggester_chatbot) | Adem TIMTAOUCINE |
 | **Naruto Shadow Clone**<br>__ | `` | [![GitHub](https://img.shields.io/badge/Repo-121011?style=flat&logo=github)](https://github.com/meriemsaid2007-netizen/naruto-.git) | Meriem Said, Younes Achour |
-| **Trolly Problem Chatbot**<br>__ | `` | [![GitHub](https://img.shields.io/badge/Repo-121011?style=flat&logo=github)](https://github.com/hadil1-dev/Trolley-Problem-Chatbot) | Hadil Aissaoui |
+| **Trolley Problem Chatbot**<br>__ | `` | [![GitHub](https://img.shields.io/badge/Repo-121011?style=flat&logo=github)](https://github.com/hadil1-dev/Trolley-Problem-Chatbot) | Hadil Aissaoui |
 | **Nova AI**<br>_Chat conversation window_ | `` | [![GitHub](https://img.shields.io/badge/Repo-121011?style=flat&logo=github)](https://github.com/hadil1-dev/Nova-AI) | Hadil Aissaoui |
 | **Head Posture detecter**<br>__ | `` | [![GitHub](https://img.shields.io/badge/Repo-121011?style=flat&logo=github)](https://github.com/taieb-solimane/head-Posture) | Manel Taib Solimane |
 | ****<br>__ | `` | [![GitHub](https://img.shields.io/badge/Repo-121011?style=flat&logo=github)]() | douaa abbas - dxuaaa |
